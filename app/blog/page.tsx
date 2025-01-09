@@ -1,8 +1,5 @@
-export default function Blog(){
-    return (
-        <div>
-            <h1>Ini Blog Demtimcod</h1>
-            <p>menggunakan nextjs </p>
-        </div>
-    )
+import Blog from "@/components/Blog";
+
+export default function BlogPage() {
+  return <Blog />;
 }
