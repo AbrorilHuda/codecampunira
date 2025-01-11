@@ -27,13 +27,13 @@ const Hero = () => {
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href="#"
-                    className="rounded-lg bg-primary px-4 py-3 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
+                    className="rounded-xl bg-primary px-4 py-3 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
                     🔥 Join us
                   </Link>
                   <Link
                     href="https://github.com/CodeCampUnira"
-                    className="inline-block rounded-sm bg-black px-4 py-2 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
+                    className="inline-block rounded-lg bg-black px-4 py-2 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
                     ✨ Star on GitHub
                   </Link>

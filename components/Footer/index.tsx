@@ -193,7 +193,10 @@ const Footer = () => {
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
               Copyright &copy; 2024 by{" "}
-              <Link href="https://nextjstemplates.com" rel="nofollow noopener">
+              <Link
+                href="https://github.com/codecampunira"
+                rel="nofollow noopener"
+              >
                 CodeCamp Team;
               </Link>
             </p>
