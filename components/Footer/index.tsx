@@ -110,7 +110,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link
-                      href="/pricing"
+                      href="/showcase"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Showcase
@@ -170,7 +170,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <Link
-                      href="/contact"
+                      href="/himatifunira"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       HIMATIF Universitas Madura
@@ -178,7 +178,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link
-                      href="/"
+                      href="/informatikaunira"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Prodi Informatika Universitas Madura
